@@ -22,6 +22,6 @@ if __name__=="__main__":
         case "odejmij":
             print("Wynik: "+str(l1)+" minus "+str(l2)+" = "+str(fk.odejmowanie(l1,l2)))
         case "podziel":
-            print("Wynik: "+str(l1)+" podzielić "+str(l2)+" = "+str(fk.dzielenie(l1,l2)))
+            print("Wynik: "+str(l1)+" podzielić na "+str(l2)+" = "+str(fk.dzielenie(l1,l2)))
         case "mnoz":
             print("Wynik: "+str(l1)+" razy "+str(l2)+" = "+str(fk.mnozenie(l1,l2)))
