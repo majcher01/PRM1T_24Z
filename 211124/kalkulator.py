@@ -10,6 +10,7 @@ if __name__=="__main__":
         l1=int(input("Podaj pierwsza liczbe "))
         operator=str(input("Podaj operator "))
         l2=int(input("Podaj druga liczbe "))
+
     operatory=["dodaj","odejmij","podziel","mnoz"]
 
     if operator not in operatory:
